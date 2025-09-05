@@ -4,13 +4,13 @@ A comprehensive desktop application designed for English teachers to track their
 
 ## Features
 
-### 📊 Dashboard
+### Dashboard
 - **Monthly Overview**: View total hours and earnings for the current month
 - **Weekly Summary**: Quick snapshot of this week's work
 - **Session Management**: Add, edit, and delete work sessions with ease
 - **Real-time Calculations**: Automatic calculation of total hours and earnings
 
-### ⏰ Time Entry
+### Time Entry
 - **Easy Logging**: Quick time entry with date and time pickers
 - **Lesson Details**: Track subject, student name, and lesson type
 - **Flexible Rates**: Set different hourly rates for different lesson types
@@ -22,12 +22,12 @@ A comprehensive desktop application designed for English teachers to track their
   - Business English: $40/hour
   - Private Tutoring: $50/hour
 
-### 📅 Calendar View
+### Calendar View
 - **Monthly Calendar**: Visual overview of work days
 - **Daily Sessions**: Click on any date to see detailed session information
 - **Quick Reference**: View all lessons for a specific day
 
-### 📈 Reports & Export
+### Reports & Export
 - **Excel Export**: Generate detailed Excel reports with:
   - Complete session history
   - Automatic totals calculation
@@ -88,17 +88,17 @@ WorkScheduleCalculator/
 
 ## Tips for Best Results
 
-### 🎯 Time Tracking
+### Time Tracking
 - Log sessions immediately after teaching for accuracy
 - Use consistent lesson types for better reporting
 - Set realistic hourly rates based on lesson complexity
 
-### 📊 Monthly Planning
+### Monthly Planning
 - Check monthly totals regularly to track progress
 - Use the calendar view to identify busy periods
 - Export monthly reports for tax/accounting purposes
 
-### 💡 Productivity
+### Productivity
 - Use the notes field for important session details
 - Set up lesson type templates with standard rates
 - Review weekly summaries to maintain consistent scheduling
@@ -123,6 +123,6 @@ For technical issues or feature requests, please contact your developer or creat
 
 ---
 
-**Happy Teaching! 📚✨**
+**Happy Teaching!**
 
 This application is designed to help you focus on what you do best - teaching - while automatically handling the time tracking and calculations.
