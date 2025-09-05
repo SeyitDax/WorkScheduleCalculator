@@ -411,6 +411,8 @@ public partial class MainForm : Form
     {
         var sessions = _context.WorkSessions
             .OrderBy(s => s.Date)
+            .ToList()
+            .OrderBy(s => s.Date)
             .ThenBy(s => s.StartTime)
             .ToList();
 
